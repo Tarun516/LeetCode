@@ -14,6 +14,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tarun516/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun516/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
 # Hash Table
 |  |
@@ -22,6 +23,7 @@ Repository having leetcode problem solutions
 # Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun516/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
 # Sorting
 |  |
