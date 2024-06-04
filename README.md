@@ -10,3 +10,11 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tarun516/LeetCode/tree/master/0206-reverse-linked-list) |
+# Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tarun516/LeetCode/tree/master/0001-two-sum) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tarun516/LeetCode/tree/master/0001-two-sum) |
