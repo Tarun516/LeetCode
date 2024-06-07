@@ -51,6 +51,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun516/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/Tarun516/LeetCode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun516/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 # Math
 |  |
@@ -60,3 +61,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun516/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Tarun516/LeetCode/tree/master/0812-rotate-string) |
