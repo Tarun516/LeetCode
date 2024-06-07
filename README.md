@@ -64,4 +64,9 @@ Repository having leetcode problem solutions
 # String Matching
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tarun516/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/Tarun516/LeetCode/tree/master/0812-rotate-string) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tarun516/LeetCode/tree/master/0014-longest-common-prefix) |
