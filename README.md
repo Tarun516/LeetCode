@@ -28,6 +28,7 @@ Repository having leetcode problem solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun516/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Tarun516/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 # Sorting
 |  |
 | ------- |
@@ -46,3 +47,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarun516/LeetCode/tree/master/0053-maximum-subarray) |
+# String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Tarun516/LeetCode/tree/master/0151-reverse-words-in-a-string) |
