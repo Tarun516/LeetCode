@@ -79,6 +79,7 @@ Repository having leetcode problem solutions
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Tarun516/LeetCode/tree/master/0812-rotate-string) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tarun516/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Trie
 |  |
 | ------- |
@@ -91,3 +92,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+# Simulation
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tarun516/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
