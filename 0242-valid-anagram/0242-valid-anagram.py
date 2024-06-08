@@ -5,25 +5,20 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        shm = {}
-        thm = {}
+        if len(s) != len(t):
+            return False
+        
+        count = {}
 
         for char in s:
-            if char in shm:
-                shm[char] += 1
-            else:
-                shm[char] = 1
+            count[char] = count.get(char, 0) + 1
+        
         for char in t:
-            if char in thm:
-                thm[char] += 1
-            else:
-                thm[char] = 1
+            if char not in count:
+                return False
+            count[char] -= 1
+            if count[char] < 0:
+                return False
 
-        return shm == thm
-        
+        return True
 
-            
-            
-
-
-        
