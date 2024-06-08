@@ -25,6 +25,7 @@ Repository having leetcode problem solutions
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Tarun516/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 # Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Repository having leetcode problem solutions
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -70,8 +73,17 @@ Repository having leetcode problem solutions
 | [0014-longest-common-prefix](https://github.com/Tarun516/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Tarun516/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Tarun516/LeetCode/tree/master/0812-rotate-string) |
 # Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tarun516/LeetCode/tree/master/0014-longest-common-prefix) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+# Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
