@@ -18,6 +18,7 @@ Repository having leetcode problem solutions
 | [0053-maximum-subarray](https://github.com/Tarun516/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun516/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Hash Table
 |  |
 | ------- |
