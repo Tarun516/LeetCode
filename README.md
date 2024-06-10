@@ -100,10 +100,12 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -112,3 +114,8 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+# Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
