@@ -96,3 +96,19 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Tarun516/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Tarun516/LeetCode/tree/master/0100-same-tree) |
