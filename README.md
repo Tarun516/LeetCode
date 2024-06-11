@@ -18,6 +18,7 @@ Repository having leetcode problem solutions
 | [0053-maximum-subarray](https://github.com/Tarun516/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
+| [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun516/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Hash Table
 |  |
@@ -28,6 +29,7 @@ Repository having leetcode problem solutions
 | [0205-isomorphic-strings](https://github.com/Tarun516/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
 # Two Pointers
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Repository having leetcode problem solutions
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -127,3 +130,7 @@ Repository having leetcode problem solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarun516/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
