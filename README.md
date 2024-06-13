@@ -20,6 +20,7 @@ Repository having leetcode problem solutions
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
 | [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun516/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tarun516/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Repository having leetcode problem solutions
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tarun516/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun516/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tarun516/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String Matching
 |  |
 | ------- |
