@@ -18,6 +18,7 @@ Repository having leetcode problem solutions
 | [0053-maximum-subarray](https://github.com/Tarun516/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Tarun516/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Tarun516/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun516/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tarun516/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -44,6 +45,7 @@ Repository having leetcode problem solutions
 | [0169-majority-element](https://github.com/Tarun516/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tarun516/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun516/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Tarun516/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tarun516/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Divide and Conquer
@@ -74,6 +76,7 @@ Repository having leetcode problem solutions
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Tarun516/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun516/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tarun516/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String Matching
@@ -136,4 +139,5 @@ Repository having leetcode problem solutions
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Tarun516/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Tarun516/LeetCode/tree/master/1217-relative-sort-array) |
