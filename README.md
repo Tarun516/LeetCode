@@ -146,6 +146,7 @@ Repository having leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tarun516/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Tarun516/LeetCode/tree/master/0890-lemonade-change) |
 ## Two Pointers
@@ -155,10 +156,15 @@ Repository having leetcode problem solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tarun516/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Tarun516/LeetCode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Tarun516/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
