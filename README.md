@@ -147,6 +147,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Tarun516/LeetCode/tree/master/0055-jump-game) |
+| [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Tarun516/LeetCode/tree/master/0890-lemonade-change) |
@@ -154,6 +155,7 @@ Repository having leetcode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -195,6 +197,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarun516/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
