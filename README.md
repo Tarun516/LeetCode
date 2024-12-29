@@ -151,6 +151,7 @@ Repository having leetcode problem solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Tarun516/LeetCode/tree/master/0890-lemonade-change) |
+| [0941-sort-array-by-parity](https://github.com/Tarun516/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tarun516/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1720-crawler-log-folder](https://github.com/Tarun516/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
@@ -159,6 +160,7 @@ Repository having leetcode problem solutions
 | [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/Tarun516/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tarun516/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Greedy
 |  |
@@ -171,6 +173,7 @@ Repository having leetcode problem solutions
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/Tarun516/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tarun516/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
