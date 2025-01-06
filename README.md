@@ -203,9 +203,11 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarun516/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Tarun516/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarun516/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Tarun516/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
