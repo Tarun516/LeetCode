@@ -214,4 +214,16 @@ Repository having leetcode problem solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tarun516/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Tarun516/LeetCode/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Tarun516/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Tarun516/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Tarun516/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
