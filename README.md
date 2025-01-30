@@ -149,6 +149,7 @@ Repository having leetcode problem solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tarun516/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/Tarun516/LeetCode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Tarun516/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tarun516/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -173,6 +174,7 @@ Repository having leetcode problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tarun516/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Tarun516/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -184,6 +186,7 @@ Repository having leetcode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Tarun516/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
