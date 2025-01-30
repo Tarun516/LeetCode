@@ -150,6 +150,7 @@ Repository having leetcode problem solutions
 | [0055-jump-game](https://github.com/Tarun516/LeetCode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Tarun516/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Tarun516/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tarun516/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Tarun516/LeetCode/tree/master/0455-assign-cookies) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Tarun516/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -187,6 +188,7 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tarun516/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tarun516/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tarun516/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -229,4 +231,8 @@ Repository having leetcode problem solutions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Tarun516/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Tarun516/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
